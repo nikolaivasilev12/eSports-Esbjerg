@@ -1,4 +1,4 @@
-# 2nd_sem_exam
+# Esport_Esbjerg Project
 
 ## Project setup
 ```
